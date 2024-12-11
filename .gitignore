@@ -1,1 +1,6 @@
 forExample.txt
+.idea/
+.pytest_cache/
+.selenium_env/
+FETCH_HEAD
+main
